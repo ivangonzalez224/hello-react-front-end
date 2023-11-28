@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🔗 Link to Frontend React app](#link-backend)
+  - [🔗 Link to Backend Rails app](#link-backend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -34,11 +34,11 @@
 
 **Hello React Frontend** is a React app that consumes an API from a Ruby on Rails app to displaye greetings Thia app allows to demonstrate how to connect a Ruby on Rails back-end with a React front-end using two separate apps.
 
-## 💻 Link to backend React app <a name="link-frontend"></a>
+## 💻 Link to backend Rails app <a name="link-backend"></a>
 
-The link to the Ract app:
+The link to the Rails app:
 
-- [React app Link](https://github.com/ivangonzalez224/Hello-Rails-Back-End)
+- [Rails app link](https://github.com/ivangonzalez224/Hello-Rails-Back-End)
 
 ## 🛠 Built With <a name="built-with"></a>
 
