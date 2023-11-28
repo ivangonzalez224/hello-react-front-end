@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Greetings from './Greetings';
+import Greetings from './components/Greetings';
 
 const App = () => (
   <section>
